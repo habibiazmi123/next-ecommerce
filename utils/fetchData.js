@@ -1,4 +1,4 @@
-const baseUrl = "http://localhost:1234"
+const baseUrl = "https://shorthaired-abundant-catfish.glitch.me"
 
 export const getData = async (url) => {
     const res = await fetch(`${baseUrl}/${url}`, {
