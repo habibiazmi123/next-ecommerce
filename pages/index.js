@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 import { useState } from 'react'
 import Catalog from '../components/Catalog'
 import Layout from '../components/Layout'

@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 import styles from "./SliderProduct.module.scss";
 import ProductItem from './product/ProductItem'
 import { useState } from "react";
