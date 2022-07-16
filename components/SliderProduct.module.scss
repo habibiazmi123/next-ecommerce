@@ -1,0 +1,17 @@
+.product_container {
+  display: flex;
+  flex-direction: row;
+  border-radius: 6px;
+  color: #333;
+  overflow-x: auto;
+  position: relative;
+  scroll-behavior: smooth;
+  
+  &::-webkit-scrollbar {
+    display: none;
+  }
+}
+
+.product_container .product_item {
+  background-color: red !important;
+}
